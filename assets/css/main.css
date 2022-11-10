@@ -207,6 +207,9 @@ input, select, textarea {
 			margin: 0;
 		}
 
+		header#services {
+			font-size: 1.25em;
+		}
 	footer {
 		margin: 3em 0 0 0;
 	}
